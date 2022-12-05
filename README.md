@@ -1,2 +1,2 @@
 # cv
-mycv build using html
+My cv build using html
